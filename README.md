@@ -9,6 +9,7 @@ Description
 -----------
 Do you send e-mail via SendGrid? SendGrid's Event Notification App can notify for events such as bounces, clicks, opens and more.
 
+![TS SendGrid Event Webhook Notifer Plugin Screenshot](https://www.mpasqualone.com/assets/img/github/Ts_sendgrid_event_webhook_notifier_screenshot.png)
 
 
 Version 0.1
